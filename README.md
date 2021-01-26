@@ -1,1 +1,3 @@
-# first-repo
+# My first repo
+
+Github tutorial with Matthew
